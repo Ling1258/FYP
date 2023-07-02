@@ -1,0 +1,33 @@
+/* .navbar{
+  background-color: #8876C6;
+}
+.nav-link{
+  color: #fff;
+} */
+.Cart{
+  background-color: white;
+  /* border-radius: 10px; */
+  box-shadow: rgba(0, 0, 255, 0.16) 0 10px 36px 0, rgba(0, 0, 255, 0.16) 0 0 0 1px;
+  padding: 3% 5%;
+  margin: 0% 20% 5% 20%;
+  /* text-align: center; */
+}
+.form-title{
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+/* .btn{
+  padding: 4% 40%;
+} */
+
+.block{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #BFB4E3;
+  padding: 14px 28px;
+  cursor: pointer;
+  text-align: center;
+  color: black;
+}

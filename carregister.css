@@ -1,0 +1,21 @@
+.Cart{
+  background-color: white;
+  box-shadow: rgba(0, 0, 255, 0.16) 0 10px 36px 0, rgba(0, 0, 255, 0.16) 0 0 0 1px;
+  padding: 3% 5%;
+  margin: 0% 20% 5% 20%;
+}
+.form-title{
+  text-align: center;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+/* .block{
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: #BFB4E3;
+  padding: 14px 28px;
+  cursor: pointer;
+  text-align: center;
+  color: black;
+} */

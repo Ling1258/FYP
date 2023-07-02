@@ -1,0 +1,109 @@
+#top{
+  background-image: url(index5.jpg);
+  background-color: #fff;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  overflow:hidden;
+}
+/* navbar */
+.navbar-brand{
+  font-weight: bold;
+}
+.navbar-nav{
+  padding-right: 3%;
+}
+.nav-link{
+  color: #fff;
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+/* search */
+.BT{
+  text-align: center;
+  color: black;
+  font-family: 'Bree Serif', serif;
+  font-size: 100px;
+  padding-top: 20%;
+  padding-bottom: 15%;
+}
+.glass{
+  background: rgba(0,0, 128, 0.2);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(6.2px);
+  -webkit-backdrop-filter: blur(6.2px);
+  padding: 5%;
+  margin: 0% 0% 8% 0%;
+}
+
+/* car */
+.card{
+  height: 380px;
+  margin: 4% 2% 0% 2%;
+  border-radius: 5%;
+}
+.item{
+  height: 400px;
+  margin-right: 0.3em;
+}
+.card-img-top{
+  height: 300px;
+  width: 200px;
+}
+
+/* about us */
+.tt-center{
+  text-align: center;
+  padding: 5%;
+}
+.p-space{
+  padding: 0% 5%;
+  padding-top: 5%;
+}
+.t-space{
+  padding: 0% 5%;
+  padding-top: 12%;
+  padding-left: 0%;
+  text-align: left;
+}
+.e-space{
+  text-align: justify;
+  padding: 5% 0%;
+}
+.btn-space{
+  padding-bottom: 5%;
+}
+.c-center{
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  padding-bottom: 2%;
+}
+/* .center{
+  text-align: center;
+  padding: 5% 5%;
+} */
+.picsize{
+  border-radius: 10%;
+}
+
+/* contact */
+#bottom{
+  background-image: url(index5.jpg);
+  background-color: #6096B4;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow:hidden;
+}
+.b1-center{
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+.b2-center{
+  text-align: center;
+  padding: 1% 0%;
+}
